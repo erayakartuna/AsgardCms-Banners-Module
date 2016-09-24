@@ -1,0 +1,17 @@
+{
+    "name": "Banners",
+    "alias": "banners",
+    "description": "Banners create and management module",
+    "version": "v1",
+    "keywords": [],
+    "active": 1,
+    "order": 1,
+    "providers": [
+        "Modules\\Banners\\Providers\\BannersServiceProvider",
+        "Modules\\Banners\\Providers\\RouteServiceProvider"
+    ],
+    "aliases":{},
+    "files": [
+        
+    ]
+}
